@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'btle-heartrate', :exclusive => true do
+  pod "btle-heartrate", :path => "../"
+
+  
+end
